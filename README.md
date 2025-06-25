@@ -1,6 +1,6 @@
 # منصة المنشورات | Post Platform
 
-![منصة المنشورات](public/images/screenshot.png)
+![منصة المنشورات](https://github.com/TaherZreeka/post_platform/blob/main/public/assets/img/Screenshot%20(110).png)
 
 منصة تدوين تعمل بلارافيل مع لوحة تحكم للمشرفين وواجهة برمجة تطبيقات (API)
 
@@ -27,22 +27,12 @@
 - PHP 8.0+
 - Composer
 - MySQL 5.7+
-- Node.js 14+ (لأصول الواجهة الأمامية)
+- Laravel 12
 
-## الصور | Screenshots
-
-![لوحة التحكم](public/images/admin-dashboard.png)
-*لوحة تحكم المشرف*
-
-![قائمة المنشورات](public/images/posts-list.png)
-*قائمة المنشورات*
-
-![واجهة API](public/images/api-docs.png)
-*وثائق واجهة API*
 
 ## التثبيت | Installation
 
 1. استنسخ المستودع:
    ```bash
-   git clone https://github.com/yourusername/post-platform.git
+   git clone https://github.com/TaherZreeka/post_platform.git
    cd post-platform
