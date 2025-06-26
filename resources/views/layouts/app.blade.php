@@ -41,7 +41,7 @@
                         </li>
                         @endif
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('posts.create') }}">إنشاء منشور</a>
+                            <a class="nav-link" href="{{ route('admin.posts.create') }}">إنشاء منشور</a>
                         </li>
                         @endauth
                     </ul>

@@ -12,6 +12,7 @@ use App\Http\Controllers\AuthController;
 
 Route::prefix('admin')->name('admin.')->middleware(['auth', 'checkadmin'])->group(function () {
     Route::resource('posts', \App\Http\Controllers\Admin\PostController::class);
+    // Route::get('posts/create', [\App\Http\Controllers\Admin\PostController::class, 'create'])->name('admin.posts.create');
 });
 
 Auth::routes();
