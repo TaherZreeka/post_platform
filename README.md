@@ -1,6 +1,9 @@
 # منصة المنشورات | Post Platform
 
 ![منصة المنشورات](https://github.com/TaherZreeka/post_platform/blob/main/public/assets/img/Screenshot%20(110).png)
+![منصة المنشورات](https://github.com/TaherZreeka/post_platform/blob/main/public/assets/img/Screenshot%20(111).png)
+![منصة المنشورات](https://github.com/TaherZreeka/post_platform/blob/main/public/assets/img/Screenshot%20(112).png)
+![منصة المنشورات](https://github.com/TaherZreeka/post_platform/blob/main/public/assets/img/Screenshot%20(113).png)
 
 منصة تدوين تعمل بلارافيل مع لوحة تحكم للمشرفين وواجهة برمجة تطبيقات (API)
 
